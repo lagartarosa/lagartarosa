@@ -1,16 +1,15 @@
-## Hi there 👋
+## Oi monas. Boas vindas ao meu perfil 💋
 
-<!--
-**lagartarosa/lagartarosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Heyllary
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou fazendo cursos online de JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+- heyllarysouza123@gmail.com
+
+
+beijocas 
+
+![](https://media1.tenor.com/m/9qNjS4FmsTsAAAAC/tulla-cute.gif)
